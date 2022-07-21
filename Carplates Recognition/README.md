@@ -1,6 +1,6 @@
 # Car plates OCR
 
-## Kaggle private leaderboard result: 1.05604 (3rd place)
+## Kaggle private leaderboard result: 0.59 (3rd place)
 
 ![Leaderboard](lb.png)
 
