@@ -38,9 +38,9 @@
 
     Пример результата обработки изображения:
 
-    ![Figure 1](https://raw.githubusercontent.com/mikgur/MADE_CV_car_plates/master/figures/augmented_plates_1.png)
+    ![Figure 1](augmented_plates_1.png)
 
-    ![Figure 2](https://raw.githubusercontent.com/mikgur/MADE_CV_car_plates/master/figures/augmented_plates_2.png)
+    ![Figure 2](augmented_plates_2.png)
 
 - Преобразование из маски в прямоугольное изображение с использованием PerspectiveTransform (с использованием opencv)
 - Сохранение и mask и bbox (спасибо Алексею Ярошенко за идею в baseline)
